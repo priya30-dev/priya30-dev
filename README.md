@@ -1,12 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:1a0000,70:8b0000,100:ff1e00&height=260&section=header&text=PRIYA%20SINGH&fontSize=78&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%7C%20Product%20Builder&descSize=20&descAlignY=58&descColor=ff4444&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0000,70:8b0000,100:cc0000&height=240&section=header&text=PRIYA%20SINGH&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%7C%20Product%20Builder&descSize=20&descAlignY=60&descColor=ff4444&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2500&pause=700&color=FF1E00&center=true&vCenter=true&width=900&lines=🏎️+Software+Engineer+on+the+Grid;⚡+Fast.+Scalable.+Reliable.;🏁+Code+%E2%80%A2+Systems+%E2%80%A2+Precision+%E2%80%A2+Innovation;🚦+Lights+Out+And+Away+We+Code" />
+```
+█▓▒░  ░▒▓█▓▒░  ░▒▓█▓▒░  ░▒▓█▓▒░  ░▒▓█▓▒░  ░▒▓█▓▒░  ░▒▓█▓▒░  ░▒▓█▓▒░  ░▒▓█
+```
+
+</div>
+
+<div align="center">
+
+```
+                         🏎️ ══════════════════════════════════════ 🏁
+              🚦  LIGHTS OUT AND AWAY WE GO  🚦
+                         🏎️ ══════════════════════════════════════ 🏁
+
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║  🏎️  ──────────────────────────────────────────────────── 🏎️   ║
+ ╠══════════╦═══════════════════════════════════╦══════════════════╣
+ ║ SECTOR 1 ║   DRIVER  :  PRIYA SINGH  #30    ║  SECTOR 3        ║
+ ║  🔴 FAST ║   TEAM    :  JIIT-CSE RACING     ║  🔴 FAST         ║
+ ╠══════════╩═══════════════════════════════════╩══════════════════╣
+ ║  CHASSIS  :  Full-Stack + ML                   LAP : 2025/26   ║
+ ║  ENGINE   :  Python / PyTorch / React          POS :  P1 🏆    ║
+ ║  TYRES    :  SOFT 🔴  DRS : ENABLED            DELTA : -0.000s ║
+ ╚══════════════════════════════════════════════════════════════════╝
+          🏎️  ─────────────────────────────────────────────────────>
+```
 
 </div>
 
@@ -14,15 +38,23 @@
 
 <div align="center">
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-ff1e00?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=050505)
-![JIIT Noida](https://img.shields.io/badge/JIIT-Noida-8b0000?style=for-the-badge&logo=university&logoColor=white&labelColor=050505)
-![Graduation](https://img.shields.io/badge/Graduation-2028-cc0000?style=for-the-badge&logo=calendar&logoColor=white&labelColor=050505)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF1E00&center=true&vCenter=true&multiline=false&width=700&lines=Software+Engineer+%E2%80%A2+Machine+Learning+Enthusiast;Building+Scalable+Systems+%26+Intelligent+Products;Fast.+Scalable.+Reliable.+%F0%9F%8F%8E%EF%B8%8F;Code+%E2%80%A2+Systems+%E2%80%A2+Precision+%E2%80%A2+Innovation;Engineered+for+Performance.+Built+for+Scale.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-cc0000?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d0d0d)
+![JIIT Noida](https://img.shields.io/badge/JIIT-Noida-8b0000?style=for-the-badge&logo=university&logoColor=white&labelColor=0d0d0d)
+![Graduation](https://img.shields.io/badge/Graduation-2028-ff1e00?style=for-the-badge&logo=calendar&logoColor=white&labelColor=0d0d0d)
 
 <br/>
 
-![Software Engineer](https://img.shields.io/badge/Software-Engineer-ff1e00?style=for-the-badge&logo=code&logoColor=white&labelColor=050505)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-8b0000?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=050505)
-![Product Builder](https://img.shields.io/badge/Product-Builder-cc0000?style=for-the-badge&logo=rocket&logoColor=white&labelColor=050505)
+![Software Engineer](https://img.shields.io/badge/Role-Software%20Engineer-cc0000?style=for-the-badge&logo=code&logoColor=white&labelColor=0d0d0d)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-8b0000?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=0d0d0d)
+![Location](https://img.shields.io/badge/📍-Uttar%20Pradesh%2C%20India-ff1e00?style=for-the-badge&logoColor=white&labelColor=0d0d0d)
 
 </div>
 
@@ -30,10 +62,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-ff1e00?style=for-the-badge&logo=github&logoColor=white&labelColor=050505)](https://github.com/priya30-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://www.linkedin.com/in/priya-singh-047877367)
-[![Email](https://img.shields.io/badge/Email-Contact-cc0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505)](mailto:priyasingh26012@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-priyasingh30-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=050505)](https://leetcode.com/u/priyasingh30/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-priya30--dev-cc0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priya30-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20Singh-8b0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-singh-047877367)
+[![Email](https://img.shields.io/badge/Email-priyasingh26012-ff1e00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyasingh26012@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-priyasingh30-cc0000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/priyasingh30/)
 
 </div>
 
@@ -41,9 +73,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=priya30-dev&style=for-the-badge&color=ff1e00&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=priya30-dev&style=for-the-badge&color=cc0000&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/priya30-dev?style=for-the-badge&color=8b0000&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/priya30-dev?style=for-the-badge&color=cc0000&label=TOTAL+STARS&logo=github)
+![Stars](https://img.shields.io/github/stars/priya30-dev?style=for-the-badge&color=ff1e00&label=TOTAL+STARS&logo=github)
 
 </div>
 
@@ -51,389 +83,498 @@
 
 <div align="center">
 
-### *"Engineered for performance. Built for scale."*
+> ### *"Performance is engineered. Excellence is iterative."*
+>
+> *— Precision in code. Speed in execution. Built for scale.*
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
+
+```
+🔴━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🔴
+  🏎️  TELEMETRY LIVE  |  DRS: ✅ ACTIVE  |  TYRE: 🔴 SOFT  |  LAP 1/∞
+🔴━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🔴
+```
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```python
+#!/usr/bin/env python3
+# ┌─────────────────────────────────────────────────────────────────┐
+# │  🏎️  DRIVER PROFILE :: PRIYA SINGH :: #30  ──────────────────> │
+# │       TEAM: JIIT-CSE RACING | SEASON: 2024-2028                 │
+# └─────────────────────────────────────────────────────────────────┘
+
 class PriyaSingh:
     def __init__(self):
-        self.name = "Priya Singh"
-        self.role = "Software Engineer | Machine Learning Enthusiast | Product Builder"
-        self.education = "B.Tech CSE @ JIIT Noida"
-        self.graduation = "2028"
-        self.location = "Uttar Pradesh, India"
+        self.name          = "Priya Singh"
+        self.role          = "Software Engineer | ML Enthusiast | Product Builder"
+        self.university    = "Jaypee Institute of Information Technology (JIIT), Noida"
+        self.degree        = "B.Tech CSE  |  2024 – 2028"
+        self.location      = "Uttar Pradesh, India  📍"
 
-        self.interests = [
+        self.expertise     = [
             "Software Engineering",
-            "Machine Learning",
-            "Full Stack Development",
             "Product Engineering",
-            "IoT Systems",
-            "Scalable Systems"
+            "Machine Learning & Deep Learning",
+            "Full Stack Development",
+            "Internet of Things (IoT)",
+            "Scalable Systems Architecture",
+            "Problem Solving & Optimization"
         ]
 
-        self.philosophy = "Precision in code. Speed in execution."
-        self.mode = "Always optimizing"
-
-    def current_focus(self):
-        return [
-            "Advanced Machine Learning",
+        self.current_focus = [
+            "Advanced ML & LLMs",
             "System Design",
-            "Backend Architecture",
-            "MLOps",
-            "Generative AI"
+            "AI-Powered Health Systems",
+            "MLOps & Generative AI"
         ]
+
+        self.philosophy    = "Engineered for performance. Built for scale."
+        self.drs_active    = True   # always pushing for overtake opportunities
+
+    def pit_strategy(self):
+        return "Soft tyres 🔴 → Fast laps → Podium finish 🏆"
+
+driver = PriyaSingh()
+print(f"QUALIFYING: {driver.philosophy}")
+# OUTPUT >> QUALIFYING: Engineered for performance. Built for scale.
 ```
 
 ---
 
-## Open To
+## 🟢 Open To
 
-```yaml
-Open To:
-  - Software Engineering Internships
-  - Machine Learning Opportunities
-  - Open Source Collaboration
-  - Research Projects
-  - Product Development
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🏎️  ──────────────────────────────────────────────────────────── 🏁   │
+│  ✅  Software Engineering Internships                                    │
+│  ✅  Open Source Collaboration                                           │
+│  ✅  Research Opportunities (ML / AI / Systems)                         │
+│  ✅  Hackathons & Competitive Programming                                │
+│  🏎️  ──────────────────────────────────────────────────────────── 🏁   │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Tech Stack
+## 🔧 Tech Stack
 
-### Languages
+### 🗣️ Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,java,matlab&theme=dark" />
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
+[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org)
+[![C](https://skillicons.dev/icons?i=c&theme=dark)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://javascript.com)
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://java.com)
+[![MATLAB](https://skillicons.dev/icons?i=matlab&theme=dark)](https://mathworks.com)
 
 </div>
 
-### Frontend
+### 🖥️ Frontend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 </div>
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi&theme=dark" />
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
+[![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://mongodb.com)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com)
 
 </div>
 
-### Tools & Platforms
+### ☁️ Cloud, DevOps & Tooling
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,unity&theme=dark" />
-
-<br/><br/>
-
-![Shopify](https://img.shields.io/badge/Shopify-Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white&labelColor=050505)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-ff1e00?style=for-the-badge&logoColor=white&labelColor=050505)
-![Embedded C](https://img.shields.io/badge/Embedded-C-8b0000?style=for-the-badge&logo=c&logoColor=white&labelColor=050505)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
+[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://postman.com)
+[![Arduino](https://skillicons.dev/icons?i=arduino&theme=dark)](https://arduino.cc)
+[![Unity](https://skillicons.dev/icons?i=unity&theme=dark)](https://unity.com)
 
 </div>
 
-### AI / ML
+**Additional:** `Shopify` · `Liquid` · `ESP32`
+
+### 🤖 AI / ML Frameworks
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-
-<br/><br/>
-
-![Hugging Face](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=050505)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=050505)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=050505)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=050505)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=050505)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://pytorch.org)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://tensorflow.org)
+[![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## 🧠 AI / ML Expertise
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| 🏁 Domain | ⚡ Proficiency | 📋 Details |
 |---|---|---|
-| Machine Learning | Advanced | Supervised & Unsupervised Learning |
-| NLP | Advanced | RoBERTa, BERT, Transformers |
-| Deep Learning | Advanced | Transfer Learning, Neural Networks |
-| Explainable AI | Intermediate | SHAP Interpretability |
-| Predictive Analytics | Advanced | Classification & Risk Modelling |
-| Feature Engineering | Advanced | Data Pipelines |
-| Data Science | Advanced | EDA, Visualization, Statistics |
-| Multimodal AI | Intermediate | NLP + Speech Emotion Analysis |
-| Backend APIs | Advanced | FastAPI, REST APIs |
-| Generative AI | Intermediate | LLM Applications |
+| **Machine Learning** | 🔴🔴🔴🔴🔴🔴 Expert | Supervised, Unsupervised, Ensemble Methods |
+| **NLP** | 🔴🔴🔴🔴🔴▪️ Advanced | Transformers, RoBERTa, Text Classification |
+| **Deep Learning** | 🔴🔴🔴🔴🔴▪️ Advanced | CNNs, RNNs, Attention Mechanisms |
+| **Explainable AI** | 🔴🔴🔴🔴▪️▪️ Proficient | SHAP, LIME, Interpretability |
+| **Predictive Analytics** | 🔴🔴🔴🔴▪️▪️ Proficient | Time-series, Forecasting, Regression |
+| **Feature Engineering** | 🔴🔴🔴🔴🔴🔴 Expert | Selection, Encoding, Dimensionality Reduction |
+| **Data Science** | 🔴🔴🔴🔴🔴🔴 Expert | EDA, Visualization, Statistical Modelling |
+| **Multimodal AI** | 🔴🔴🔴▪️▪️▪️ Intermediate | NLP + Speech, Cross-modal Fusion |
+| **Backend APIs** | 🔴🔴🔴🔴▪️▪️ Proficient | FastAPI, REST, Microservices |
+| **Generative AI** | 🔴🔴🔴▪️▪️▪️ Intermediate | LLMs, Prompt Engineering, Fine-tuning |
 
 </div>
 
 ---
 
-## Current Lap
+## 🏎️ Current Lap
 
 ```yaml
-Driver:
-  name: Priya Singh
-  role: Software Engineer
-  team: JIIT CSE
-  mode: Performance Engineering
+# ┌──────────────────────────────────────────────────────────────────────┐
+# │  🏎️ ──────────────────────────────────────────────────────────── 🏁 │
+# │    RACE STRATEGY :: SEASON 2025-26 :: DRIVER: PRIYA SINGH  #30       │
+# └──────────────────────────────────────────────────────────────────────┘
 
-Learning:
-  - Advanced Machine Learning
-  - System Design
-  - Large Language Models
+DRIVER:
+  name: "Priya Singh"
+  number: 30
+  team: "JIIT-CSE Racing"
+  chassis: "Full-Stack + AI/ML"
+  status: "IN RACE 🟢"
+  tyre_colour: "🔴 RED — MAXIMUM ATTACK"
 
-Building:
-  - AI-Powered Mental Health Systems
-  - Scalable Software Solutions
-  - Graph-Based Optimization Engines
+LAP_STATUS:
+  current_lap: "2025 / Season 2"
+  delta: "-0.000s"
+  drs_enabled: true
+  tyre_compound: "SOFT 🔴"
 
-Exploring:
-  - MLOps
-  - Generative AI
-  - Backend Architecture
+LEARNING:
+  - "Advanced Machine Learning"
+  - "System Design at Scale"
+  - "Large Language Models"
+  - "MLOps & Model Deployment"
 
-Open To:
-  - Software Engineering Internships
-  - Open Source Collaboration
-  - Research Opportunities
+BUILDING:
+  - "MindBridge — AI-Powered Mental Health System"
+  - "Scalable Software Solutions"
 
-Race Philosophy:
-  - "Each commit is a lap."
-  - "Each release is a race."
-  - "Performance is engineered."
+EXPLORING:
+  - "MLOps Pipelines"
+  - "Generative AI Applications"
+  - "Backend Architecture Patterns"
+  - "Vector Databases & RAG"
+
+OPEN_TO:
+  - "Software Engineering Internships"
+  - "Open Source Collaboration"
+  - "Research Opportunities"
+
+RACE_PHILOSOPHY: >
+  "Each commit is a lap. Each release is a race.
+   Engineered for performance. Built for scale."
 ```
 
 ---
 
-## Featured Projects
+## 🚀 Projects
 
 <details>
-<summary><b>MindBridge — AI-Powered Mental Health Screening System</b></summary>
+<summary><b>🧠 MindBridge — AI-Powered Mental Health Screening System</b> &nbsp; <img src="https://img.shields.io/badge/STATUS-PRODUCTION-cc0000?style=flat-square" /></summary>
 
 <br/>
 
-[![Repository](https://img.shields.io/badge/View-Repository-ff1e00?style=for-the-badge&logo=github&logoColor=white&labelColor=050505)](https://github.com/priya30-dev/MindBridge-Mental-Health-Screening)
+```
+┌────────────────────────────────────────────────────────────────────────────┐
+│  🏎️ ─────────────────────────────────────────────────────────────────> 🏁 │
+│  PROJECT: MindBridge  |  SECTOR: ██████████  FAST 🔴  |  P1 PACE           │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
-| Category | Details |
-|---|---|
-| Stack | Python, PyTorch, RoBERTa, Hugging Face, SHAP, FastAPI, Streamlit |
-| Scale | Multimodal AI pipeline |
-| Performance | Confidence-scored predictions |
-| Security | API-based inference pipeline |
-| Impact | Mental health risk screening and explainability |
+**[📂 github.com/priya30-dev/MindBridge-Mental-Health-Screening](https://github.com/priya30-dev/MindBridge-Mental-Health-Screening)**
 
-Built an AI-powered mental health screening system using transformer-based NLP and multimodal emotion analysis. Fine-tuned RoBERTa for risk classification and integrated SHAP explainability for transparent prediction insights.
+> *An enterprise-grade AI mental health screening platform built for precision and empathy. Fine-tuned transformer models with multimodal signal fusion and full explainability.*
 
+**🔧 Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-cc0000?style=flat-square)
+
+**⚡ Highlights**
+- 🤖 Fine-tuned **RoBERTa** model for mental health text classification
+- 🎙️ **Multimodal fusion** — NLP + Speech Emotion Recognition pipeline
+- 🔍 **Explainable AI** using SHAP values for transparent predictions
+- 🚀 Deployed via **FastAPI** with production-ready inference endpoints
+
+<br/>
 </details>
 
 ---
 
 <details>
-<summary><b>Route Optimizer — Graph-Based Navigation Engine</b></summary>
+<summary><b>🗺️ Route Optimizer — Graph-Based Navigation Engine</b> &nbsp; <img src="https://img.shields.io/badge/STATUS-ACTIVE-8b0000?style=flat-square" /></summary>
 
 <br/>
 
-[![Repository](https://img.shields.io/badge/View-Repository-ff1e00?style=for-the-badge&logo=github&logoColor=white&labelColor=050505)](https://github.com/priya30-dev/route-optimizer)
+```
+┌────────────────────────────────────────────────────────────────────────────┐
+│  🏎️ ─────────────────────────────────────────────────────────────────> 🏁 │
+│  PROJECT: Route Optimizer  |  SECTOR: ████████  FAST 🔴  |  RACE PACE      │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
-| Category | Details |
-|---|---|
-| Stack | Python, Dijkstra, A*, Graph Algorithms |
-| Scale | Graph-based routing system |
-| Performance | Optimized shortest-path computation |
-| Security | Local algorithmic execution |
-| Impact | Efficient navigation and routing |
+**[📂 github.com/priya30-dev/route-optimizer](https://github.com/priya30-dev/route-optimizer)**
 
-Implemented a graph-based navigation engine using Dijkstra and A* algorithms for shortest-path computation, route comparison, and dynamic visualization.
+> *A high-performance graph-based navigation engine applying F1-grade path optimization algorithms to real-world routing problems.*
 
+**🔧 Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dijkstra](https://img.shields.io/badge/Algorithm-Dijkstra-cc0000?style=flat-square)
+![A*](https://img.shields.io/badge/Algorithm-A%2A%20Search-8b0000?style=flat-square)
+![Graph](https://img.shields.io/badge/Structure-Graph%20Algorithms-ff1e00?style=flat-square)
+
+**⚡ Highlights**
+- 📍 **Dynamic route optimization** using Dijkstra & A\* algorithms
+- 📊 **Interactive visualization** of graph traversal and path selection
+- ⚡ **Real-time rerouting** capability with live graph updates
+- 🔬 Benchmarked performance across multiple heuristic strategies
+
+<br/>
 </details>
 
 ---
 
 <details>
-<summary><b>HackOps Synex — Financial Intelligence Platform</b></summary>
+<summary><b>💹 HackOps Synex — Financial Intelligence Platform</b> &nbsp; <img src="https://img.shields.io/badge/STATUS-ACTIVE-ff1e00?style=flat-square" /></summary>
 
 <br/>
 
-[![Repository](https://img.shields.io/badge/View-Repository-ff1e00?style=for-the-badge&logo=github&logoColor=white&labelColor=050505)](https://github.com/joshi-mishita/HackOps_Synex)
+```
+┌────────────────────────────────────────────────────────────────────────────┐
+│  🏎️ ─────────────────────────────────────────────────────────────────> 🏁 │
+│  PROJECT: HackOps Synex  |  SECTOR: ███████  NOMINAL 🔴  |  PACE: STRONG   │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
-| Category | Details |
-|---|---|
-| Stack | Python, Node.js, MongoDB, REST APIs |
-| Scale | Multi-account financial aggregation |
-| Performance | Real-time transaction monitoring |
-| Security | API-based data handling |
-| Impact | Spending insights and predictive analytics |
+**[📂 github.com/joshi-mishita/HackOps_Synex](https://github.com/joshi-mishita/HackOps_Synex)**
 
-Built a financial intelligence platform for transaction monitoring, spending pattern analysis, and predictive financial insights using scalable REST API architecture.
+> *An intelligent financial aggregation platform with predictive analytics and real-time transaction monitoring — precision tooling for financial decisions.*
 
+**🔧 Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST](https://img.shields.io/badge/REST-APIs-cc0000?style=flat-square)
+
+**⚡ Highlights**
+- 🏦 **Financial aggregation** across multiple data sources
+- 📈 **Predictive analytics** engine for transaction pattern recognition
+- 🔍 **Transaction monitoring** with anomaly detection
+- 🔌 RESTful API-first architecture for extensibility
+
+<br/>
 </details>
 
 ---
 
 <details>
-<summary><b>Smart Gate Automation — IoT Edge Intelligence Showcase</b></summary>
+<summary><b>🔒 Smart Gate Automation</b> &nbsp; <img src="https://img.shields.io/badge/REPO-PRIVATE-0d0d0d?style=flat-square&logo=lock" /></summary>
 
 <br/>
 
-![Private](https://img.shields.io/badge/Repository-Private-8b0000?style=for-the-badge&logo=lock&logoColor=white&labelColor=050505)
+```
+┌────────────────────────────────────────────────────────────────────────────┐
+│  🏎️ ──────────────────────────────────────────────── 🔐 ACCESS: RESTRICTED │
+│  PROJECT: Smart Gate  |  STATUS: PRIVATE  |  CLEARANCE: TEAM ONLY          │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
-| Category | Details |
-|---|---|
-| Stack | Arduino, ESP32, Embedded C, IoT |
-| Scale | Sensor-driven embedded automation |
-| Performance | Low-latency actuator response |
-| Security | Physical access automation |
-| Impact | Real-time gate control system |
+> *An embedded IoT system for intelligent automated gate control — engineering precision meets real-world infrastructure.*
 
-Designed an IoT-enabled smart gate automation system using ESP32, sensors, embedded programming, and real-time actuator control.
+**🔧 Tech Stack**
 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-IoT%20Platform-cc0000?style=flat-square)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-Systems%20Programming-8b0000?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-Connected%20Hardware-ff1e00?style=flat-square)
+
+**⚡ Domain**
+- 🔌 Embedded systems programming with **Arduino & ESP32**
+- 🌐 IoT communication protocols and wireless automation
+- ⚙️ Hardware-software integration for real-world applications
+
+> 🔐 *Repository is private.*
+
+<br/>
 </details>
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Software Developer Intern — Build Right Studios  
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  🏎️ ──────────────────────────────────────────────────────────── 🏁      │
+│  PIT LANE  ::  PROFESSIONAL EXPERIENCE                                    │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🏢 Software Developer Intern · Build Right Studios
 **June 2025 – August 2025**
 
-![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-ff1e00?style=flat-square)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-Templating-cc0000?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Frontend](https://img.shields.io/badge/Frontend-Engineering-8b0000?style=flat-square)
+![Performance](https://img.shields.io/badge/Web-Performance-8b0000?style=flat-square)
 
-- Engineered and shipped a production D2C e-commerce platform using Shopify, Liquid, HTML, CSS, and JavaScript.
-- Built reusable UI components including product cards, sliders, banners, and collection grids.
-- Improved performance, responsiveness, accessibility, and user experience across the storefront.
-- Worked on industry-level frontend development for a live brand website.
+- 🌐 Developed and shipped **[inclusif.in](https://inclusif.in)** — production Shopify storefront
+- 🛍️ Built custom **Shopify Liquid** themes, sections, and dynamic components
+- 🧩 Architected reusable **component library** for scalable frontend delivery
+- ⚡ Executed **performance optimization** reducing page load metrics significantly
+- ♿ Implemented **accessibility improvements** to meet WCAG compliance standards
 
 ---
 
-## Leadership
+## 🎖️ Leadership
 
-### Vice President & Founding Member — DICE Hub, JIIT  
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  🏎️ ──────────────────────────────────────────────────────────── 🏁      │
+│  TEAM PRINCIPAL  ::  LEADERSHIP & COMMUNITY                               │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🔴 Vice President & Founding Member · DICE Hub, JIIT
 **September 2025 – Present**
 
-![Leadership](https://img.shields.io/badge/Leadership-DICE%20Hub-ff1e00?style=flat-square)
-![ML](https://img.shields.io/badge/Machine%20Learning-Community-8b0000?style=flat-square)
-![Workshops](https://img.shields.io/badge/Workshops-Data%20Science-cc0000?style=flat-square)
+![ML](https://img.shields.io/badge/ML-Workshops-cc0000?style=flat-square)
+![Community](https://img.shields.io/badge/Data%20Science-Community-8b0000?style=flat-square)
+![Events](https://img.shields.io/badge/Technical-Events-ff1e00?style=flat-square)
 
-- Co-founded and led a student community focused on Machine Learning, Data Science, and Analytics.
-- Organized workshops on EDA, visualization, predictive modeling, and ML workflows.
-- Collaborated on technical events promoting AI, data-driven problem solving, and peer learning.
+- 🧠 Organized and led **ML workshops** for undergraduate students across departments
+- 📊 Built and scaled the **Data Science community** at JIIT from the ground up
+- 🏁 Spearheaded **technical events** including hackathons and paper presentations
+- 🤝 Mentored junior members in machine learning and software engineering fundamentals
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-| Recognition | Details |
+| 🏅 Achievement | 📋 Details | 📅 Year |
+|---|---|---|
+| 🥇 **Hackathon Finalist** | HackOps Synex — Financial Intelligence Platform | 2025 |
+| 🧠 **ML Project Lead** | MindBridge Mental Health AI System | 2025 |
+| 🌐 **Production Deployment** | inclusif.in — Shopify Storefront | 2025 |
+| 🏫 **VP & Founding Member** | DICE Hub, JIIT — Data Science Community | 2025 |
+| 📐 **B.Tech CSE** | Jaypee Institute of Information Technology | 2024 |
+| 🔬 **Open Source Contributor** | Active contributor across multiple repositories | Ongoing |
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-priyasingh30-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyasingh30/)
+[![GitHub](https://img.shields.io/badge/GitHub-priya30--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priya30-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-priya--singh--047877367-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-singh-047877367)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  🏎️ ──────────────────────────────────────────────────────────── 🏁      │
+│  RACE ANALYTICS  ::  GITHUB TELEMETRY DASHBOARD                           │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priya30-dev&show_icons=true&theme=radical&border_color=cc0000&bg_color=0d0d0d&title_color=ff1e00&icon_color=cc0000&text_color=ffffff&ring_color=cc0000&hide_border=false&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priya30-dev&theme=dark&background=0d0d0d&border=cc0000&ring=ff1e00&fire=cc0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1e00&sideLabels=cc0000&dates=888888" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya30-dev&theme=radical&border_color=cc0000&bg_color=0d0d0d&title_color=ff1e00&text_color=ffffff&layout=compact&langs_count=8&hide_border=false" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  🏎️ ──────────────────────────────────────────────────────────── 🏁      │
+│  LAP CHART  ::  CONTRIBUTION VELOCITY OVER TIME                           │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priya30-dev&bg_color=0d0d0d&color=ff1e00&line=cc0000&point=ff1e00&area=true&area_color=8b0000&hide_border=false&border_color=cc0000&title_color=ff1e00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📡 Connect
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  🏎️ ──────────────────────────────────────────────────────────── 🏁      │
+│  TEAM RADIO  ::  OPEN COMMS — REACH OUT ANY TIME                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+| Channel | Link |
 |---|---|
-| Production Website Development | Built and optimized live Shopify-based D2C storefront |
-| ML Project Development | Built MindBridge using RoBERTa, SHAP, FastAPI, and Streamlit |
-| Community Leadership | Vice President & Founding Member of DICE Hub, JIIT |
-| Graph Algorithm Project | Built Route Optimizer using Dijkstra and A* |
-| Full Stack Development | Worked with Node.js, Express.js, MongoDB, FastAPI, React |
-
-</div>
-
----
-
-## Certifications
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-Certifications-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=050505)
-![Oracle](https://img.shields.io/badge/Oracle-Certifications-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=050505)
-![NPTEL](https://img.shields.io/badge/NPTEL-Certifications-8b0000?style=for-the-badge&labelColor=050505)
-![Cisco](https://img.shields.io/badge/Cisco-Certifications-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=050505)
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-priyasingh30-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=050505)](https://leetcode.com/u/priyasingh30/)
-[![GitHub](https://img.shields.io/badge/GitHub-priya30--dev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=050505)](https://github.com/priya30-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://www.linkedin.com/in/priya-singh-047877367)
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=priya30-dev&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=ff1e00&icon_color=ff1e00&text_color=ffffff&border_color=8b0000&count_private=true&include_all_commits=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priya30-dev&theme=dark&background=0d0d0d&border=8b0000&ring=ff1e00&fire=ff1e00&currStreakLabel=ff1e00&sideLabels=cc0000&dates=ffffff" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya30-dev&layout=compact&theme=radical&bg_color=0d0d0d&title_color=ff1e00&text_color=ffffff&border_color=8b0000&langs_count=8" width="42%" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=priya30-dev&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priya30-dev&bg_color=050505&color=ff4444&line=ff1e00&point=ffffff&area=true&area_color=8b0000&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/priya30-dev/priya30-dev/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-priyasingh26012-cc0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505)](mailto:priyasingh26012@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://www.linkedin.com/in/priya-singh-047877367)
-[![GitHub](https://img.shields.io/badge/GitHub-priya30--dev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=050505)](https://github.com/priya30-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Profile-ff1e00?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=050505)](https://github.com/priya30-dev)
+| 📧 **Email** | [priyasingh26012@gmail.com](mailto:priyasingh26012@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/priya-singh-047877367](https://www.linkedin.com/in/priya-singh-047877367) |
+| 🐙 **GitHub** | [github.com/priya30-dev](https://github.com/priya30-dev) |
+| 🌐 **Portfolio** | [github.com/priya30-dev](https://github.com/priya30-dev) |
+| 💻 **LeetCode** | [leetcode.com/u/priyasingh30](https://leetcode.com/u/priyasingh30/) |
 
 </div>
 
@@ -441,8 +582,12 @@ Designed an IoT-enabled smart gate automation system using ESP32, sensors, embed
 
 <div align="center">
 
-### *"Performance is engineered. Excellence is iterative."*
+```
+🔴━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🔴
+  🏁  RACE COMPLETE  |  P1 FINISH  |  FASTEST LAP  🔴  |  DRS ZONE CLEAR
+🔴━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🔴
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1e00,50:8b0000,100:050505&height=150&section=footer&text=Engineered%20for%20Performance.%20Built%20for%20Scale.&fontSize=22&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,50:8b0000,100:0d0d0d&height=140&section=footer&text=Performance%20is%20engineered.%20Excellence%20is%20iterative.&fontSize=18&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 
 </div>
