@@ -1,25 +1,26 @@
-<!-- =============================================== -->
-<!--                PREMIUM HEADER                   -->
-<!-- =============================================== -->
+<!-- ======================================================= -->
+<!--                F1 x SOFTWARE ENGINEER                    -->
+<!-- ======================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:6D28D9,100:8B5CF6&text=Priya%20Singh&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20ML%20Researcher&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,40:4C1D95,75:6D28D9,100:A855F7&text=Priya%20Singh&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%7C%20Product%20Builder&descAlignY=55&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Machine+Learning+Enthusiast;Software+Developer+%7C+Product+Engineer;Building+Scalable+AI+Systems;Transforming+Ideas+Into+Intelligent+Products" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Software+Engineer+%E2%80%A2+Machine+Learning+Enthusiast;Building+Scalable+Systems+%26+Intelligent+Products;Fast.+Scalable.+Reliable.;Code+%E2%80%A2+Systems+%E2%80%A2+Precision+%E2%80%A2+Innovation" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech_CSE-JIIT_Noida-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Graduation-2028-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Specialization-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software-Engineer-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-4C1D95?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Uttar_Pradesh,_India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Uttar_Pradesh,_India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -40,38 +41,37 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priya30-dev&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/priya30-dev?label=Followers&style=for-the-badge&color=6D28D9"/>
-  <img src="https://img.shields.io/github/stars/priya30-dev?affiliations=OWNER&style=for-the-badge&color=8B5CF6"/>
+  <img src="https://img.shields.io/github/stars/priya30-dev?affiliations=OWNER&style=for-the-badge&color=A855F7"/>
+</p>
+
+<p align="center">
+  <i>"Engineered for performance. Built for scale."</i>
 </p>
 
 ---
 
 # About Me
 
-I am a **Computer Science undergraduate at Jaypee Institute of Information Technology (JIIT), Noida**, passionate about building **scalable software systems and AI-driven products**.
+Hi, I'm **Priya Singh**, a Computer Science undergraduate at **Jaypee Institute of Information Technology (JIIT), Noida** with a passion for building scalable software systems and intelligent products.
 
-My work spans **Artificial Intelligence, Machine Learning, Full Stack Development, IoT, and Product Engineering**, with hands-on experience delivering production-ready solutions across web, embedded, and intelligent systems.
+Inspired by **Formula 1 engineering principles**, I believe great systems are built with:
 
-I enjoy solving real-world problems through **data-driven engineering**, designing systems that are not only technically robust but also impactful at scale.
+- ⚡ Speed in execution
+- 🎯 Precision in design
+- 🔧 Continuous optimization
+- 📊 Data-driven decision making
 
-My interests include:
-
-- Building **AI-powered applications**
-- Designing **scalable backend systems**
-- Developing **full-stack products**
-- Exploring **Generative AI & NLP**
-- Engineering **IoT-enabled intelligent systems**
-- Contributing to **open-source ecosystems**
+I enjoy transforming ideas into reliable software solutions while exploring emerging technologies in machine learning and intelligent systems.
 
 ---
 
 ## Open To
 
-- AI/ML Research Opportunities
 - Software Engineering Internships
+- Machine Learning Opportunities
 - Open Source Contributions
-- Full Stack Development Projects
-- Product Engineering Roles
-- Research Collaborations in AI & Data Science
+- Product Development Projects
+- Research Collaborations
 
 ---
 
@@ -80,7 +80,7 @@ My interests include:
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,java,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,java,matlab" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ My interests include:
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ My interests include:
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi" />
 </p>
 
 ---
@@ -104,14 +104,14 @@ My interests include:
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Shopify-Liquid-95BF47?style=flat-square&logo=shopify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-Game_Development-000000?style=flat-square&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-Embedded_Systems-6D28D9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ESP32-Embedded-A855F7?style=flat-square"/>
 </p>
 
 ---
@@ -119,12 +119,12 @@ My interests include:
 ## AI / ML Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HuggingFace-Transformers-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
@@ -137,20 +137,42 @@ My interests include:
 | Domain | Proficiency | Details |
 |--------|------------|---------|
 | Machine Learning | Advanced | Supervised & Unsupervised Learning |
-| Deep Learning | Advanced | Neural Networks, Transfer Learning |
-| Natural Language Processing | Advanced | RoBERTa, BERT, Hugging Face |
-| Explainable AI | Intermediate | SHAP-based Interpretability |
-| Predictive Analytics | Advanced | Classification & Risk Modeling |
-| Feature Engineering | Advanced | Data Processing Pipelines |
-| Model Evaluation | Advanced | Metrics, Validation, Testing |
-| Multimodal AI | Intermediate | NLP + Speech Emotion Recognition |
-| Generative AI | Intermediate | LLM Applications & Prompt Engineering |
-| Data Science | Advanced | Statistical Analysis & Visualization |
+| NLP | Advanced | RoBERTa, BERT & Transformers |
+| Deep Learning | Advanced | Transfer Learning & Neural Networks |
+| Explainable AI | Intermediate | SHAP Interpretability |
+| Predictive Analytics | Advanced | Risk Modelling |
+| Feature Engineering | Advanced | Data Pipelines |
+| Data Science | Advanced | Statistical Analysis |
+| Multimodal AI | Intermediate | NLP + Speech Emotion Analysis |
+| Generative AI | Intermediate | LLM Applications |
+| Backend APIs | Advanced | FastAPI & REST APIs |
 
 ---
 
+```yaml
+Current Lap:
+  Learning:
+    - Advanced Machine Learning
+    - System Design
+    - Large Language Models
+
+  Building:
+    - AI-Powered Mental Health Systems
+    - Scalable Software Solutions
+
+  Exploring:
+    - MLOps
+    - Generative AI
+    - Backend Architecture
+
+  Open To:
+    - Software Engineering Internships
+    - Open Source Collaboration
+    - Research Opportunities
+```
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently_Building-Scalable_AI_Systems-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-ML_Engineering-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open_To-Collaboration-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/F1-SPEED-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software-PRECISION-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Engineering-EXCELLENCE-4C1D95?style=for-the-badge"/>
 </p>
